@@ -847,5 +847,6 @@
     "EnforceAccessControl": "Enforce access control",
     "ContextVariables": "Context Variables",
     "ContextVariables_help": "Enabling context variables will make certain data about the request available to transforms middleware",
-    "EnableContextVariables": "Enable context variables"
+    "EnableContextVariables": "Enable context variables",
+    "WelcomeToTyk": "Welcome to Tyk!"
   }
