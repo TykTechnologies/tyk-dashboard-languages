@@ -850,5 +850,9 @@
   "ConfigData": "Données de configuration",
   "ConfigData_help": "Vous pouvez passer des attributs personnalisés au Middleware ou aux endpoints virtuels. Il faut fournir un un objet JSON valide, exemple : {\"foo\":\"bar\"}",
   "GatewayEvents": "Événements de la Gateway",
-  "NoGatewayLogsToDisplay": "Pas de logs de la Gateway à afficher"
+  "NoGatewayLogsToDisplay": "Pas de logs de la Gateway à afficher",
+  "EditNodeConfiguration": "Modifier la configuration du noeud",
+  "NodeData": "Détail du noeud",
+  "NodeDetail_help": "Utiliser cet éditeur pour modifier la configuration de ce noeud, modifier les paramètres et chamins si nécessaire et ajouter de nouvelles sections là où il faut. Le noeud fusionnera ces changements avec sa configuration puis fera un rechargement à chaud (aucune connexion ne sera perdue sauf si la configuration est cassée suite aux changements).",
+  "Save": "Sauver"
 }
