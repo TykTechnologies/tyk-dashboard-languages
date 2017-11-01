@@ -7,7 +7,7 @@ As of version 1.3 of the Tyk Dashboard, language packs are supported. Tyk Techno
 Currently, the languages that are supported out of the box are:
 
 - English
-_ Chinese (Mandarin)
+- Chinese (Mandarin)
 - Korean
 - French
 
