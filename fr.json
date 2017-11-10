@@ -181,7 +181,7 @@
   "Method": "Methode",
   "Path": "Chemin",
   "SelectPlugin": "Sélectionner un plugin",
-  "ActivePlugins": "Activer des plugins",
+  "ActivePlugins": "Plugins activés",
   "EndpointDesigner_help": "Utiliser le designer d'API pour gérer comment Tyk traite les endpoints. Par défaut, Tyk va proxifier toutes les requêtes, vous n'avez pas besoin de lister toute la structure de vos APIs sauf si vous voulez filtrer certains endpoints.",
   "AddNewEndpoint": "Ajouter un nouvel endpoint",
   "Options": "Options",
