@@ -10,6 +10,7 @@ Currently, the languages that are supported out of the box are:
 - Chinese (Mandarin)
 - Korean
 - French
+- Spanish (Spain)
 
 ## How to enable a language pack in the Dashboard
 
@@ -23,7 +24,8 @@ Then amend your configuration file to add a UI section:
             "English": "en",
             "Chinese": "cn",
             "Korean": "ko",
-            "French": "fr"
+            "French": "fr",
+            "Spanish": "es"
         },
         "default_lang": "en"
     },
